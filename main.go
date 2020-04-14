@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/rakeshkonni/go-play-service/models/controllers"
+	"github.com/rakeshkonni/go-play-service/controllers"
 )
 
 func main() {
